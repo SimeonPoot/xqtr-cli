@@ -22,3 +22,6 @@ When the master is deployed with the script (delete secret), this will be run wi
 
 ### xqtr-cli:
 Go [COBRA]-cli that runs a command (first phase a bash-script). This command can only be run in a timeframe of a day (later more specified).
+
+- use [COBRA](https://github.com/spf13/cobra) to create a cli. 
+- 
